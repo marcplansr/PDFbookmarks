@@ -1,0 +1,19 @@
+PROJECTE BÀSIC I D'EXECUCIÓ D'HABITATGE UNIFAMILIAR AÏLLAT A SANT PERE DE RIBES (GARRAF) 1
+	ÍNDEX DEL PROJECTE 2
+	I. MEMÒRIA 3
+		ÍNDEX DE LA MEMÒRIA 4
+		1. DADES GENERALS (MG) 6
+		2. MEMÒRIA DESCRIPTIVA (MD) 8
+			MD 1 Informació prèvia: antecedents i condicionants de partida 9
+			MD 2 Descripció del projecte 9
+			MD 3 Prestacions de l’edifici 12
+		3. MEMÒRIA CONSTRUCTIVA (MC) 25
+			MC 0 Treballs previs, replanteig general i adequació del terreny 26
+			MC 1 Sustentació de l’edifici 27
+			MC 2 Sistema estructural 27
+			MC 3. Sistemes envoltant i d'acabats exteriors 35
+			MC 4 Sistemes de compartimentació i acabats interiors 39
+			MC 5 Sistema d'acabats 40
+			MC 6 Sistema de condicionament, instal·lacions i serveis 41
+			MC 7 Equipament 44
+		4. NORMATIVA APLICABLE (MN) 45
